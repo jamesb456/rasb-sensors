@@ -1,0 +1,1 @@
+{"device-id": 12, "sensor-dict": {"H": 9, "T": 10, "S": 11, "L": 12}}
